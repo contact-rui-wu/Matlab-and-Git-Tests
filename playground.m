@@ -2,4 +2,4 @@
 
 addpath(genpath('/home/data/rw1679/GitLib/Matlab-and-Git-Tests'));
 
-test_sayMessage;
+test_sayMessage; %this test is not tracked by git
